@@ -1,0 +1,13 @@
+  body {
+      background: black;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      box-sizing: border-box;
+  }
+  
+  img {
+      max-width: 350px;
+      max-height: 300px;
+      width: auto;
+  }
