@@ -1,5 +1,5 @@
 
- <h1 align="center">Pagina Zombies  </h1>
+ <h1 align="center">Página Zombies  </h1>
 <p align="center">
 <a href="https://nathmelop.github.io/Zombies/">
     <img src="https://github.com/nathmelop/zombies/raw/main/img/page-principal.png" alt="pagina principal"/></a>
